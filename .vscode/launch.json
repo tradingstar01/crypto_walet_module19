@@ -1,0 +1,18 @@
+
+{
+"version": "0.2.0",
+    "configurations": [
+        {
+            "name": "debug streamlit",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/green//Documents/crypto_walet_module19/krypto_jobs.py",
+            "args": [
+                "run",
+                "${file}"
+            ]
+        }
+
+
+]
+}
